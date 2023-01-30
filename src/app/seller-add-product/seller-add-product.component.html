@@ -1,0 +1,50 @@
+<div class="Seller-add-data-container">
+  <h1>Add New Product</h1>
+
+  <form
+    class="seller-add-data-form"
+    #addProductForm="ngForm"
+    (ngSubmit)="formData(addProductForm.value)"
+  >
+    <input
+      type="text"
+      placeholder="Enter Product Name"
+      formControlName="pname"
+    />
+    <div
+      *ngIf="
+        this.addProductData.controls.pname.invalid &&
+        this.addProductData.controls.pname.touched &&
+        this.addProductData.controls.pname.untouched
+      "
+    >
+      <p class="form-error">pName is required</p>
+    </div>
+    <input
+      type="text"
+      placeholder="Enter Product Price"
+      formControlName="pprice"
+    />
+    <input
+      type="text"
+      placeholder="Enter Product Category"
+      formControlName="pcategory"
+    />
+    <input
+      type="text"
+      placeholder="Enter Product Color"
+      formControlName="pcolor"
+    />
+    <input
+      type=""
+      placeholder="Enter Product Description"
+      formControlName="pdescription"
+    />
+    <input
+      type="text"
+      placeholder="Enter Product Image URL"
+      formControlName="pimage"
+    />
+    <button>Add Product</button>
+  </form>
+</div>

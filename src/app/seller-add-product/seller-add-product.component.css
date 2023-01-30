@@ -1,0 +1,25 @@
+.seller-add-data-form {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  margin: 0 auto;
+}
+.seller-add-data-form,
+input,
+button {
+  padding: 20px;
+  margin: 20px 0px;
+  outline: none;
+}
+input,
+button {
+  border: 1px solid blueviolet;
+  color: blueviolet;
+}
+button {
+  cursor: pointer;
+}
+.form-error {
+  border: 1px solid red;
+  color: red;
+}

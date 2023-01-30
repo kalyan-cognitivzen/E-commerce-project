@@ -1,0 +1,298 @@
+{
+  "Seller": [
+    {
+      "name": "kalyan",
+      "email": "kalyan@seller.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "kumar",
+      "password": "kumar123",
+      "email": "kumar@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "jane",
+      "password": "jane123",
+      "email": "jane@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "mike",
+      "password": "mike123",
+      "email": "mike@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "mark",
+      "password": "mark123",
+      "email": "mark@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "kalyan",
+      "password": "",
+      "email": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 7
+    },
+    {
+      "name": "sdfsd",
+      "password": "sdcvs",
+      "email": "csdcvds",
+      "id": 8
+    },
+    {
+      "name": "kalyan",
+      "password": "jsgf",
+      "email": "daesf",
+      "id": 9
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 15
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "ssss",
+      "id": 16
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 17
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 18
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 19
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "kalyankumar22@gmail",
+      "id": 20
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "kalyankumar22@gmail.c",
+      "id": 21
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 22
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "kalyankumar22@gmail.c",
+      "id": 23
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "kumar@gmail.com",
+      "id": 24
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "hjfffy",
+      "id": 25
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "kumar@gmail.com",
+      "id": 26
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "kumar@gmail.com",
+      "id": 27
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 28
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "dytfhv",
+      "id": 29
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 30
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 31
+    },
+    {
+      "name": "dfve",
+      "password": "wefwef",
+      "email": "fwefwe",
+      "id": 32
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "kalyankumar22@gmail",
+      "id": 33
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "aaa",
+      "id": 34
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 35
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "aaaa",
+      "id": 36
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "kumar@gmail.com",
+      "id": 37
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "kumar@gmail.com",
+      "id": 38
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "kumar@gmail.com",
+      "id": 39
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "kumar@gmail.com",
+      "id": 40
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "kumar@gmail.com",
+      "id": 41
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "kumar@gmail.com",
+      "id": 42
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "kumar@gmail.com",
+      "id": 43
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "kumar@gmail.com",
+      "id": 44
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "kumar@gmail.com",
+      "id": 45
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "kumar@gmail.com",
+      "id": 46
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "kumar@gmail.com",
+      "id": 47
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "kumar@gmail.com",
+      "id": 48
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "kumar@gmail.com",
+      "id": 49
+    }
+  ]
+}

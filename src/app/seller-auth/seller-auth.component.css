@@ -1,0 +1,21 @@
+.auth-toggle-link {
+  color: blueviolet;
+  font-size: 14px;
+  margin-top: 20px;
+  text-align: left;
+}
+.auth-toggle-link:hover {
+  cursor: pointer;
+}
+.login-link,
+.signup-link {
+  text-decoration: underline;
+}
+
+.alert-danger {
+  color: red;
+  text-align: start;
+}
+.error-p {
+  color: red;
+}

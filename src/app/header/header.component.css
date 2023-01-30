@@ -1,0 +1,19 @@
+/* .nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+h1 {
+  font-size: 50px;
+  color: #a405d7;
+}
+.nav-search,
+input {
+} */
+h1,
+a {
+  color: blueviolet;
+  text-decoration: none;
+  cursor: pointer;
+}
